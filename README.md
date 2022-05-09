@@ -20,3 +20,4 @@ Run with the command line arguments:
   
 
 Example run: ./simulation -t 120 -n 30
+ 
