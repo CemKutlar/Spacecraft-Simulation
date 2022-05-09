@@ -1,9 +1,12 @@
 # Spacecraft-Simulation
 This is a project that uses the concepts of scheduling, synchronization, multi-threading and deadlock prevention in operating systems by using POSIX threads (pthreads) API. 
 
-To compile type "make"
+To compile type "make" 
+
 To remove the executable files type "make clean"
+
 To run the simulation type "./simulation"
+
 
 Run with the command line arguments:
 
